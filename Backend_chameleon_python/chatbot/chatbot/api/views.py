@@ -10,7 +10,7 @@ class IntentionView(APIView):
     permission_classes = [AllowAny]
     # request response cycle ---> request is the object from axios on the frontend
     def post(self, request, *args, **kwargs):
-        #json from messageInput of two fields message and uuid
+        #data is a json from messageInput of two fields message and uuid
         chat_text = request.data['message']
         conversation_uuid = request.data['uuid']
 
