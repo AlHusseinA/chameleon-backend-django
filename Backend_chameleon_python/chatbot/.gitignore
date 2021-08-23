@@ -1,6 +1,7 @@
 
 
-
+Backend_chameleon_python/chatbot/config/settings/test.py
+Backend_chameleon_python/chatbot/config/settings/local.py
 ### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
