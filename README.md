@@ -4,4 +4,4 @@ This is handles all requests and responses between the frontend and google's dia
 
 To run this you will need:
 1) Your own local.py and test.py files which contain your DJANGO_SECRET_KEY. 
-2) plucky.json with your authentication codes
+2) plucky.json with your Google Cloud authentication codes
